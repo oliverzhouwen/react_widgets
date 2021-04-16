@@ -1,0 +1,15 @@
+#countryCard {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+}
+
+#region {
+  text-transform: uppercase;
+}
+
+#info {
+  display: inline-block;
+  font-weight: bold;
+  width: 90px;
+}
